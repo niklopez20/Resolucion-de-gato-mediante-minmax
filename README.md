@@ -1,0 +1,1 @@
+# Resolucinon-de-gato-mediante-minmax
